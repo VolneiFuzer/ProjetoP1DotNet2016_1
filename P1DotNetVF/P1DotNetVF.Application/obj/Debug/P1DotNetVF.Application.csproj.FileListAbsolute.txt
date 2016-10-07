@@ -1,0 +1,5 @@
+C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Application\bin\Debug\P1DotNetVF.Application.dll
+C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Application\bin\Debug\P1DotNetVF.Application.pdb
+C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Application\obj\Debug\P1DotNetVF.Application.csprojResolveAssemblyReference.cache
+C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Application\obj\Debug\P1DotNetVF.Application.dll
+C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Application\obj\Debug\P1DotNetVF.Application.pdb

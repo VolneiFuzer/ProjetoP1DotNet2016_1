@@ -54,6 +54,8 @@
     <Compile Include="EntityConfig\CorrentistaConfiguration.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\CartaoRepository.cs" />
+    <Compile Include="Repositories\CorrentistaRepository.cs" />
     <Compile Include="Repositories\RepositoryBase.cs" />
   </ItemGroup>
   <ItemGroup />

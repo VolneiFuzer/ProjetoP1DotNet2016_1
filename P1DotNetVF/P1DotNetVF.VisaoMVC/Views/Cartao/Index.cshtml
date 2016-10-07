@@ -1,0 +1,45 @@
+﻿@model IEnumerable<P1DotNetVF.VisaoMVC.ViewModels.CartaoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NomeCartao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Limite)
+        </th>
+        <th>
+            @Html.DisplayName("Correntista")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomeCartao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Limite)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Correntista.Nome)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CartaoID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CartaoID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CartaoID })
+        </td>
+    </tr>
+}
+
+</table>

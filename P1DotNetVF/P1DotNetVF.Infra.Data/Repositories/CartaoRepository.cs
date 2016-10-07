@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using P1DotNetVF.Domain.Entities;
-using P1DotNetVF.Domain.Interfaces;
+using P1DotNetVF.Domain.Interfaces.Repositories;
 using System.Linq;
 
 namespace P1DotNetVF.Infra.Data.Repositories

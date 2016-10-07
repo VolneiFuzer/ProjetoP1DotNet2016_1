@@ -1,4 +1,4 @@
-﻿using P1DotNetVF.Domain.Interfaces;
+﻿using P1DotNetVF.Domain.Interfaces.Repositories;
 using P1DotNetVF.Infra.Data.Context;
 using System;
 using System.Collections.Generic;

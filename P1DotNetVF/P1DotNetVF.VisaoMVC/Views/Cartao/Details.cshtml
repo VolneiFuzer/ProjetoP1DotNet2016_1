@@ -1,0 +1,42 @@
+﻿@model P1DotNetVF.VisaoMVC.ViewModels.CartaoViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CartaoViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeCartao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeCartao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Limite)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Limite)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CorrentistaID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CorrentistaID)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CartaoID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

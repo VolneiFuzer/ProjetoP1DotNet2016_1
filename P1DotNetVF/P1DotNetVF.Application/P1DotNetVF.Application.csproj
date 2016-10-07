@@ -40,7 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppServiceBase.cs" />
+    <Compile Include="CartaoAppService.cs" />
+    <Compile Include="CorrentistaAppService.cs" />
+    <Compile Include="Interface\IAppServiceBase.cs" />
+    <Compile Include="Interface\ICartaoAppService.cs" />
+    <Compile Include="Interface\ICorrentistaAppService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\P1DotNetVF.Domain\P1DotNetVF.Domain.csproj">
+      <Project>{DDC05FE1-59BF-4EEF-A050-C7DEA41D8D38}</Project>
+      <Name>P1DotNetVF.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
