@@ -1,0 +1,12 @@
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\P1DotNetVF.Infra.Data.dll.config
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\P1DotNetVF.Infra.Data.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\P1DotNetVF.Infra.Data.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\P1DotNetVF.Domain.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\P1DotNetVF.Domain.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\obj\Debug\P1DotNetVF.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\obj\Debug\P1DotNetVF.Infra.Data.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Infra.Data\obj\Debug\P1DotNetVF.Infra.Data.pdb
