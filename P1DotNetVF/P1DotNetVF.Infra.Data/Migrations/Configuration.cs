@@ -2,14 +2,14 @@ namespace P1DotNetVF.Infra.Data.Migrations
 {
 	using System.Data.Entity.Migrations;
 
-	internal sealed class Configuration : DbMigrationsConfiguration<Context.Context>
+	internal sealed class Configuration : DbMigrationsConfiguration<Context.P1DotNetVFContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
         }
 
-        protected override void Seed(Context.Context context)
+        protected override void Seed(Context.P1DotNetVFContext context)
         {
             //  This method will be called after migrating to the latest version.
 
