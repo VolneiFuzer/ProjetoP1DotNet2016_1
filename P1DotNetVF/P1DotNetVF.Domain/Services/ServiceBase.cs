@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace P1DotNetVF.Domain.Services
 {
-	public class ServiceBase<TEntity> : IDisposable, Interfaces.Services.IRepositoryBase<TEntity> where TEntity : class
+	public class ServiceBase<TEntity> : IDisposable, Interfaces.Services.IServiceBase<TEntity> where TEntity : class
 	{
 		private readonly Interfaces.Repositories.IRepositoryBase<TEntity> _repository;
 

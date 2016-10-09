@@ -1,9 +1,9 @@
-C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\bin\Debug\P1DotNetVF.Domain.dll
-C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\bin\Debug\P1DotNetVF.Domain.pdb
-C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\obj\Debug\P1DotNetVF.Domain.dll
-C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\obj\Debug\P1DotNetVF.Domain.pdb
 C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\bin\Debug\P1DotNetVF.Domain.dll
 C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\bin\Debug\P1DotNetVF.Domain.pdb
 C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\obj\Debug\P1DotNetVF.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\obj\Debug\P1DotNetVF.Domain.dll
 C:\Users\Volnei\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\obj\Debug\P1DotNetVF.Domain.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\bin\Debug\P1DotNetVF.Domain.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\bin\Debug\P1DotNetVF.Domain.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\obj\Debug\P1DotNetVF.Domain.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoP1DotNet2016_2\P1DotNetVF\P1DotNetVF.Domain\obj\Debug\P1DotNetVF.Domain.pdb

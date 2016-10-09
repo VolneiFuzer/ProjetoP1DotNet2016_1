@@ -2,7 +2,7 @@
 
 namespace P1DotNetVF.Domain.Interfaces.Services
 {
-	public interface ICorrentistaService : IRepositoryBase<Correntista>
+	public interface ICorrentistaService : IServiceBase<Correntista>
 	{
 
 	}

@@ -8,9 +8,9 @@ namespace P1DotNetVF.Application
 {
 	public class AppServiceBase<TEntity> : IDisposable, IAppServiceBase<TEntity> where TEntity : class
 	{
-		private readonly IRepositoryBase<TEntity> _serviceBase;
+		private readonly IServiceBase<TEntity> _serviceBase;
 
-		public AppServiceBase(IRepositoryBase<TEntity> serviceBase)
+		public AppServiceBase(IServiceBase<TEntity> serviceBase)
 		{
 			_serviceBase = serviceBase;
 		}

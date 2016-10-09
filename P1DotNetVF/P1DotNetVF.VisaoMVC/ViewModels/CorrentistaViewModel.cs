@@ -27,7 +27,6 @@ namespace P1DotNetVF.VisaoMVC.ViewModels
 		public string Sobrenome { get; set; }
 
 		[DataType(DataType.Currency)]
-		[Range(typeof(decimal), "0", "999999999999")]
 		[Required(ErrorMessage = "Preencha o saldo inicial")]
 		public int SaldoCC { get; set; }
 

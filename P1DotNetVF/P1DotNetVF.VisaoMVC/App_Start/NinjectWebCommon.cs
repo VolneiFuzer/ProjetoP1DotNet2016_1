@@ -71,7 +71,7 @@ namespace P1DotNetVF.VisaoMVC.App_Start
 			kernel.Bind<ICorrentistaAppService>().To<CorrentistaAppService>();
 			kernel.Bind<ICartaoAppService>().To<CartaoAppService>();
 
-			kernel.Bind(typeof(IRepositoryBase<>)).To(typeof(ServiceBase<>));
+			kernel.Bind(typeof(IServiceBase<>)).To(typeof(ServiceBase<>));
 			kernel.Bind<ICorrentistaService>().To<CorrentistaService>();
 			kernel.Bind<ICartaoService>().To<CartaoService>();
 

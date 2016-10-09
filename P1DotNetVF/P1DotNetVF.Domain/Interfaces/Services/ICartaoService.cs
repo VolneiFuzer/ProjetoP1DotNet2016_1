@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace P1DotNetVF.Domain.Interfaces.Services
 {
-	public interface ICartaoService : IRepositoryBase<Cartao>
+	public interface ICartaoService : IServiceBase<Cartao>
 	{
 		IEnumerable<Cartao> BuscarPorNome(string n);
 	}

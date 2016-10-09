@@ -15,8 +15,8 @@ namespace P1DotNetVF.VisaoMVC.AutoMapper
 
 		protected override void Configure()
 		{
-			CreateMap<CorrentistaViewModel, Correntista>();
-			CreateMap<CartaoViewModel, Cartao>();
+			CreateMap<Correntista, CorrentistaViewModel>();
+			CreateMap<Cartao, CartaoViewModel>();
 		}
 	}
 }

@@ -7,12 +7,12 @@ using System.Web.Mvc;
 
 namespace P1DotNetVF.VisaoMVC.Controllers
 {
-	public class CartaoController : Controller
+	public class CartoesController : Controller
 	{
 		private readonly ICartaoAppService _cartaoAppService;
 		private readonly ICorrentistaAppService _correntistaAppService;
 
-		public CartaoController(ICartaoAppService cartaoAppService, ICorrentistaAppService correntistaAppService)
+		public CartoesController(ICartaoAppService cartaoAppService, ICorrentistaAppService correntistaAppService)
 		{
 			_cartaoAppService = cartaoAppService;
 			_correntistaAppService = correntistaAppService;
